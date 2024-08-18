@@ -1,39 +1,39 @@
 {
   "cat": [
-    {
-      "name": "Siamese",
-      "appearance": "Slim, elegant",
-      "color": "Cream with darker points",
-      "personality": "Affectionate, vocal",
-      "photo": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670304177684551/Siamese.jpg"
-    },
-    {
-      "name": "Maine Coon",
-      "appearance": "Large, muscular",
-      "color": "Various, often tabby",
-      "personality": "Friendly, intelligent",
-      "photo": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670304513363969/maine_coon.jpg"
-    },
-    {
-      "name": "Persian",
-      "appearance": "Round face, long fur",
-      "color": "Various",
-      "personality": "Quiet, calm",
-      "photo": "https://media.discordapp.net/attachments/1274667698021859383/1274670304752566292/Persian_Long_Hair.jpg"
-    },
-    {
-      "name": "Bengal",
-      "appearance": "Spotted coat",
-      "color": "Golden, brown",
-      "personality": "Energetic, playful",
-      "photo": "https://media.discordapp.net/attachments/1274667698021859383/1274670305025064990/Bengal.jpg"
-    },
-    {
-      "name": "Sphynx",
-      "appearance": "Hairless, wrinkled",
-      "color": "Various",
-      "personality": "Sociable, affectionate",
-      "photo": "https://media.discordapp.net/attachments/1274667698021859383/1274670305268338758/Sphynx.jpg"
-    }
-  ]
+   {
+    "name": "Siamese",
+    "appearance": "Slim, elegant",
+    "color": "Cream with darker points",
+    "personality": "Affectionate, vocal",
+    "photo": "https://media.discordapp.net/attachments/1274667698021859383/1274670305268338758/Siamese.jpg?ex=66c318bb&is=66c1c73b&hm=75a6bdaffc345bd12addfddce02520b84f5cf1e9e93a9c4cbd50136d5fcef277&=&format=webp&width=1052&height=1052"
+  },
+  {
+    "name": "Maine Coon",
+    "appearance": "Large, muscular",
+    "color": "Various, often tabby",
+    "personality": "Friendly, intelligent",
+    "photo": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670304513363969/maine.jpg?ex=66c318ba&is=66c1c73a&hm=6d65944e314e6909c055d439f264f433482c58062bb0c0e326c423dd191b0828&"
+  },
+  {
+    "name": "Persian",
+    "appearance": "Round face, long fur",
+    "color": "Various",
+    "personality": "Quiet, calm",
+    "photo": "https://media.discordapp.net/attachments/1274667698021859383/1274670304752566292/Persian_Long_Hair.2.jpg?ex=66c318ba&is=66c1c73a&hm=7792bb5e3f4053b01c81b9a1d7a40c75de436b774453790c7b46fa47c81e9780&=&format=webp&width=1052&height=1052"
+  },
+  {
+    "name": "Bengal",
+    "appearance": "Spotted coat",
+    "color": "Golden, brown",
+    "personality": "Energetic, playful",
+    "photo": "https://media.discordapp.net/attachments/1274667698021859383/1274670304177684551/bengal.jpg?ex=66c318ba&is=66c1c73a&hm=311f993fe31edadd6812c97d68bc1ac95ed666c832b3d4bc9b982ca5354e8366&=&format=webp&width=1052&height=1052"
+  },
+  {
+    "name": "Sphynx",
+    "appearance": "Hairless, wrinkled",
+    "color": "Various",
+    "personality": "Sociable, affectionate",
+    "photo": "https://cdn.discordapp.com/attachments/1274667698021859383/1274716732099002419/sphyx2.jpg?ex=66c343f8&is=66c1f278&hm=80c18c51b17ce858da539a0e12057126a1d5c707c9c9bdb0449cd46e02cc0549&"
+  }
+]
 }
