@@ -1,0 +1,45 @@
+{
+    "breeds": [
+      {
+        "image_url": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670304513363969/maine.jpg?ex=66c318ba&is=66c1c73a&hm=6d65944e314e6909c055d439f264f433482c58062bb0c0e326c423dd191b0828&",
+        "name": "Maine Coon",
+        "name_history": "The Maine Coon is one of the oldest natural breeds in North America, named after the U.S. state of Maine. The 'Coon' part of the name is believed to come from a supposed cross with raccoons, although this is a myth.",
+        "appearance": "Maine Coons are large, with a sturdy build, tufted ears, and a bushy tail. They have a shaggy, water-repellent coat that is longer around the neck, belly, and legs.",
+        "color": "They come in almost every color and pattern, including tabby, solid, and bi-color.",
+        "personality": "Known for their friendly and sociable nature, Maine Coons are often described as 'gentle giants.' They are intelligent, playful, and good with children and other pets."
+      },
+      {
+        "image_url": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670305268338758/Siamese.jpg?ex=66c318bb&is=66c1c73b&hm=75a6bdaffc345bd12addfddce02520b84f5cf1e9e93a9c4cbd50136d5fcef277&",
+        "name": "Siamese",
+        "name_history": "The Siamese cat is named after Siam (now Thailand), its country of origin. The breed has been associated with Thai royalty and has a long history in Southeast Asia.",
+        "appearance": "Siamese cats are slender and elegant with a short coat. They have large ears, a long neck, and a sleek, muscular body.",
+        "color": "They are known for their distinctive color points on the ears, face, paws, and tail, with a lighter body color. The traditional colors are seal point, blue point, chocolate point, and lilac point.",
+        "personality": "Siamese cats are very vocal and affectionate. They are known for their strong social bonds with their owners and can be quite demanding of attention. They are also very intelligent and playful."
+      },
+      {
+        "image_url": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670304752566292/Persian_Long_Hair.2.jpg?ex=66c318ba&is=66c1c73a&hm=7792bb5e3f4053b01c81b9a1d7a40c75de436b774453790c7b46fa47c81e9780&",
+        "name": "Persian",
+        "name_history": "The Persian cat’s name reflects its origins in Persia (now Iran). The breed has been known for centuries and was popularized in the West during the 1600s.",
+        "appearance": "Persians are known for their long, luxurious coat, flat face, and large, round eyes. They have a sturdy, compact body and a distinctive pushed-in nose.",
+        "color": "They come in a wide range of colors and patterns, including solid, tabby, and Himalayan (color point).",
+        "personality": "Persians are generally calm and affectionate. They enjoy a quiet, stable environment and are known for being laid-back and gentle."
+      },
+      {
+        "image_url": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670304177684551/bengal.jpg?ex=66c318ba&is=66c1c73a&hm=311f993fe31edadd6812c97d68bc1ac95ed666c832b3d4bc9b982ca5354e8366&",
+        "name": "Bengal",
+        "name_history": "The Bengal cat was developed by crossing domestic cats with the Asian leopard cat, a wild species. The name 'Bengal' reflects the leopard cat’s scientific name, Prionailurus bengalensis.",
+        "appearance": "Bengals have a distinctive wild appearance with a muscular build and a coat that resembles that of a leopard. They have a spotted or marbled coat pattern with a sleek, shiny finish.",
+        "color": "Common colors include brown, silver, and snow, often with various patterns such as rosettes or marbling.",
+        "personality": "Bengals are energetic, playful, and curious. They are known for their intelligence and love of interactive play. They are also very social and enjoy being part of family activities."
+      },
+      {
+        "image_url": "https://cdn.discordapp.com/attachments/1274667698021859383/1274670305025064990/scottish.jpg?ex=66c318ba&is=66c1c73a&hm=918517dfc097039a5c0503f07cff707ebf709d9b22e2fdf5ee02601fec493aa6&",
+        "name": "Scottish Fold",
+        "name_history": "The Scottish Fold originated in Scotland in the 1960s when a cat with unique folded ears was discovered. The breed’s name reflects its country of origin and the distinct folded nature of its ears.",
+        "appearance": "Scottish Folds have a round face, large eyes, and a distinctive folded ear shape. Their body is medium-sized with a rounded, plush appearance.",
+        "color": "They come in a variety of colors and patterns, including solid, tabby, and bi-color.",
+        "personality": "Scottish Folds are known for their sweet and calm demeanor. They are affectionate and enjoy spending time with their owners. They adapt well to various living situations and are generally low-maintenance."
+      }
+    ]
+  }
+  
